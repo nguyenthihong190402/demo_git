@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Day la file week 1 tren branch week1 ma thoi
+=======
+Day la file week 1 tren branch week1 va main
+>>>>>>> main
